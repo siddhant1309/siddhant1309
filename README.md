@@ -11,7 +11,7 @@
   <li>🌱 I’m currently learning Web Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Software developer .</li>
   <li>❓ You can Email Me Through <a href="siddhantpathak13@gmail.com">here</a></li>
-  <li>❓ You can find my Resume <a href="https://drive.google.com/file/d/1ELdR8OloXmjxg2K9Khphnp_HFmmvQT3b/view?usp=sharing">here</a></li>
+  <li>📝 You can find my Resume <a href="https://drive.google.com/file/d/1ELdR8OloXmjxg2K9Khphnp_HFmmvQT3b/view?usp=sharing">here</a></li>
 </ul>
 
 ## Tech Stack
