@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/siddhant1309">Siddhant Pathak</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+Competitive+Programmer;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Competitive+Programmer;" /></a>
 </p>
 <p>I am a Software developer, I'm a Competitive Programmer, I also like to create projects.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
